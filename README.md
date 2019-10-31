@@ -1,4 +1,12 @@
-## Projeto de MVP - Deltree Ciber Security
+## MVP Project - Deltree Ciber Security
 ---
-##### platafora de mapeamento do ciclo de vida dos dados e conseguente aplicação da LGPD ( Lei Geral de Proteção de Dados)
+##### Data lifecycle mapping platform and effective application of LGPD ( Lei Geral de Proteção de Dados)
 ---
+##  Team
+name | function
+-----|-------
+Kaio Prates  |CTO - DEV JS - Pentester
+Yure Vitor | Pentester 
+Kaique Baleeiro | Marketing 
+Tony Luz | Dev Java - Jurídico 
+Gabriel Paiva | Dev Mobile - Designer
